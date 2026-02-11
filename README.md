@@ -1,4 +1,3 @@
-[DOCUMENTATION.md](https://github.com/user-attachments/files/25226092/DOCUMENTATION.md)
 # Fortress Security System v3.0
 
 > **Status:** OPERATIONAL
